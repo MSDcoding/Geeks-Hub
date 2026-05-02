@@ -28,7 +28,7 @@ Here is a sneak peek at the current state of the game:
 ## 🕹️ Playable Demo (Test Build)
 Since the game is still under development, bugs and missing features are expected. However, you can test the latest playable build here:
 
-🔗 **[Download & Play the Latest Build (Google Drive)]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1u7rCd1YzvHnPme2FKUvvPo51qawqr52F?usp=drive_link))**
+🔗 **https://drive.google.com/drive/folders/1u7rCd1YzvHnPme2FKUvvPo51qawqr52F?usp=drive_link**
 
 ### ⌨️ Controls:
 * **W, A, S, D** - Movement
